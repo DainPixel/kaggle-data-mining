@@ -14,7 +14,7 @@ The goal was to **predict problematic internet usage in children and adolescents
 
 ## 🏫 Team & Contributions
 This project was conducted by a team of **four graduate students**, including myself and three members from the **Data Mining Lab**.  
-- **DainPixel**: Model training & hyperparameter tuning  
+- **DainPixel**: Model training, hyperparameter tuning, and class imbalance handling  
 - **Team Members**: Outlier detection, PCA, feature selection, and missing value handling  
 
 ## 📊 Dataset Description
