@@ -13,9 +13,16 @@ The goal was to **predict problematic internet usage in children and adolescents
 </p>
 
 ## 🏫 Team & Contributions
-This project was conducted by a team of **four graduate students**, including myself and three members from the **Data Mining Lab**.  
-- **DainPixel**: Model training, hyperparameter tuning, and class imbalance handling  
-- **Team Members**: Outlier detection, PCA, feature selection, and missing value handling  
+This project was conducted by a team of **four graduate students**, including myself and three members from the **[Big Data AI Center, SNU](http://dm.snu.ac.kr/ko/)**.  
+While we collaborated throughout the project, each member focused on specific aspects:
+
+| Name                 | Main Contributions |
+|----------------------|---------------------------------------------|
+| **DainPixel**        | Model training & hyperparameter tuning, Class imbalance handling |
+| **Jaeik Park**       | Feature selection, Principal component analysis  |
+| **Hyunwoo Kim**      | Handling missing data, kNN-based pattern detection    |
+| **Donghyun Kim**     | Outlier detection, Class imbalance handling |
+
 
 ## 📊 Dataset Description
 The dataset comes from the **Healthy Brain Network (HBN) study** and includes **physical activity data** (accelerometer & fitness assessments) and **internet usage behavior** (Severity Impairment Index - `sii`).
