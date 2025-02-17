@@ -18,10 +18,11 @@ While we collaborated throughout the project, each member focused on specific as
 
 | Name                 | Main Contributions |
 |----------------------|---------------------------------------------|
-| **DainPixel**        | Model training & hyperparameter tuning, Class imbalance handling |
+| [**Dain Kim**](https://github.com/DainPixel) | Model training & hyperparameter tuning, Class imbalance handling |
 | **Jaeik Park**       | Feature selection, Principal component analysis  |
 | **Hyunwoo Kim**      | Handling missing data, kNN-based pattern detection    |
 | **Donghyun Kim**     | Outlier detection, Class imbalance handling |
+
 
 
 ## 📊 Dataset Description
@@ -53,9 +54,9 @@ To optimize model performance, we experimented with various hyperparameter tunin
 - **Grid Search** (for final parameter refinement)  
 
 ## 🏁 Final Results
-- **The best-performing model excluded actigraphy data** due to excessive missing values.  
-- **Feature engineering and hyperparameter tuning improved results**, but the challenge remained.  
-- **Ensemble learning & PCA** yielded the best overall performance.  
+- The best-performing model excluded actigraphy data due to excessive missing values.  
+- Feature engineering and hyperparameter tuning improved results, but the challenge remained.
+- The highest-performing model was CatBoost with Stratified K-Fold cross-validation. 
 
 ## 📂 Files
 - `notebook-final-1.ipynb`: Jupyter Notebook containing model training and evaluation  
