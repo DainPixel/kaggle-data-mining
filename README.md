@@ -1,4 +1,4 @@
-# Kaggle Data Mining Project: Problematic Internet Use & Physical Activity
+# Kaggle Project (2024)
 
 ## 📌 Overview
 This project was part of a **graduate-level course**, where we participated in the [Kaggle competition](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use).  
